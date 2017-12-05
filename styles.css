@@ -1,0 +1,156 @@
+html, body{
+	margin: 0px;
+	padding: 0px;
+}
+.navbar{
+	padding: 0 15% 0 15%;
+	background-color:#f90606;
+}
+.navbar-brand{
+	
+}
+.logo1{
+	max-width:6%;
+	background-color:#e62e00;
+}
+.nav-link{
+	color:sandybrown;
+	font-size: 12px;
+}
+.active{
+	font-size: 14px;
+	font-weight: 700;
+	position: absolute;
+	left: 25%;
+	color: #fff;
+}
+#women{
+	position: absolute;
+	left: 35%
+}
+#boys{
+	position: absolute;
+	left: 45%
+}
+#girls{
+	position: absolute;
+	left: 55%
+}
+#custom{
+	position: absolute;
+	left: 65%
+}
+.badge{
+	background-color: #fff;
+	border-radius: 100%;
+	color:#f90606;
+	font-size: 14px;
+}
+
+.cart1{
+	max-width: 15%;
+}
+.navbar-toggler-icon{
+	background-color:grey;
+}
+.container-fluid{
+	position: fixed;
+	background-color: #ff4000;
+	margin-top:-0.09%;
+	height: 600px;
+}
+.header{
+	height: 80px;
+}
+h3{
+	font-size: 34px;
+	font-weight: 700;
+	opacity: 0.5;
+	color:#fff;
+}
+.left{
+	margin-left: -30px;
+}
+.right{
+	float: right;
+	margin-top: -35px;
+	margin-right:-12px;
+}
+.product-title{
+	
+}
+	
+h1{
+	text-align:center;
+	font-size: 34px;
+	font-weight: 500;
+	color: #fff;
+	margin-top: -75px;
+	
+}
+.arrow-left{
+	margin-left: 30%;
+	max-width: 4%;
+	margin-top: -100px;
+}
+.arrow-right{
+	max-width: 4%;
+	margin-left: 65%;
+	margin-top: -140px;
+}
+hr{
+	width: 5%;
+	background-color: #fff;
+	height: 2px;
+	border: 1px solid #fff;
+	margin-left:40%;
+	margin-top: -8px;
+}
+.nike{
+	max-width: 70%;
+	margin-top: -10%;
+	opacity: 0.2;
+}
+.card{
+	width: 35%;
+	height: 200px;
+	margin-left: auto;
+	margin-right: auto;
+	background-color: #fff;
+	margin-top: -25%;
+	box-shadow:0px 0px 30px grey; 
+}
+.image{
+	max-width: 100%;
+	margin-top: -43%;
+}
+.btn-outline-secondary{
+	border-radius: 40px;
+	margin-top: 30px;
+	min-width: 25%;
+	color:#ff6600;
+	font-weight: 500;
+}
+b{
+	color: #000;
+}
+.amount{
+	float: right;
+	padding-right: 30px;
+	margin-top: 30px;
+}
+del{
+	margin-top:20px;
+	color: #ff6600;
+	font-size: 11px;
+	font-weight: 700;
+}
+strong{
+	font-size: 20px;
+}
+.cart-down{
+	position: absolute;
+	left: 95%;
+	top: 65%;
+	max-width: 10%;
+}
